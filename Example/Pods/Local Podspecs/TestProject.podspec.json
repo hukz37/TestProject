@@ -1,0 +1,22 @@
+{
+  "name": "TestProject",
+  "version": "0.1.0",
+  "summary": "A short description of TestProject.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/595632239@163.com/TestProject",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "595632239@163.com": "595632239@163.com"
+  },
+  "source": {
+    "git": "https://github.com/595632239@163.com/TestProject.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TestProject/Classes/**/*"
+}
