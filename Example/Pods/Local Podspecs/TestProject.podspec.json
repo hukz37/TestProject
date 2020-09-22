@@ -18,5 +18,10 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "TestProject/Classes/**/*"
+  "source_files": "TestProject/Classes/**/*",
+  "dependencies": {
+    "SDWebImage": [
+
+    ]
+  }
 }

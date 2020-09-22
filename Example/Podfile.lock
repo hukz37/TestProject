@@ -1,15 +1,24 @@
 PODS:
-  - TestProject (0.1.0)
+  - SDWebImage (5.9.1):
+    - SDWebImage/Core (= 5.9.1)
+  - SDWebImage/Core (5.9.1)
+  - TestProject (0.1.0):
+    - SDWebImage
 
 DEPENDENCIES:
   - TestProject (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - SDWebImage
 
 EXTERNAL SOURCES:
   TestProject:
     :path: "../"
 
 SPEC CHECKSUMS:
-  TestProject: 2ce81c3c00fd6c2954380db7a978ceb5a622d65f
+  SDWebImage: a990c053fff71e388a10f3357edb0be17929c9c5
+  TestProject: a87431d93b1ca555a697afc85583a653f50bac8f
 
 PODFILE CHECKSUM: 754ecd8f609821ae651c4c4c36ac961e611aa4b3
 
